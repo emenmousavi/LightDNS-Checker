@@ -40,4 +40,4 @@ Note: Replace "example.com" with the domain that you want to check. You can also
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/emenmousavi/LightDNS-Checker/blob/main/LICENSE).
