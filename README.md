@@ -7,7 +7,7 @@ A Python script for checking a domain's DNS records and their DNS Zone provider.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/lightdns-checker.git
+    git clone https://github.com/emenmousavi/lightdns-checker.git
     cd lightdns-checker
     ```
 
