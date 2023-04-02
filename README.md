@@ -26,6 +26,7 @@ A Python script for checking a domain's DNS records and their DNS Zone provider.
 Note: Replace "example.com" with the domain that you want to check. You can also use the -t and -n options to retrieve specific DNS records by type and name. For example:
     ```sh
     python lightdns-checker.py example.com -t MX
+    
     python lightdns-checker.py example.com -n www
     ```
 
