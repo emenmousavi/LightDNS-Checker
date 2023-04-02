@@ -33,6 +33,8 @@ Note: Replace "example.com" with the domain that you want to check. You can also
 
 4. The program will print out the DNS records for the specified domain, as well as the DNS Zone provider.
 
+![alt text]([relative/path/to/img.jpg](https://github.com/emenmousavi/LightDNS-Checker/blob/main/Atest.png))
+
 ## Options
 
 * `-t <record type>`: Only show records of the specified type (e.g. `-t A`)
