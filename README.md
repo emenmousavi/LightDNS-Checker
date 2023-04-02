@@ -14,7 +14,7 @@ A Python script for checking a domain's DNS records and their DNS Zone provider.
 2. Install the required packages:
 
     ```sh
-    pip install -r requirements.txt
+    pip install dnspython
     ```
 
 3. Run the script:
@@ -23,7 +23,13 @@ A Python script for checking a domain's DNS records and their DNS Zone provider.
     python lightdns-checker.py example.com
     ```
 
-    This will output the DNS records for example.com.
+Note: Replace "example.com" with the domain that you want to check. You can also use the -t and -n options to retrieve specific DNS records by type and name. For example:
+    ```sh
+    python lightdns-checker.py example.com -t MX
+    python lightdns-checker.py example.com -n www
+    ```
+
+4. The program will print out the DNS records for the specified domain, as well as the DNS Zone provider.
 
 ## Options
 
