@@ -4,7 +4,8 @@ LightDNS Checker is a Python script for checking a domain's DNS records and thei
 
 # Installation
 1. Clone the repository:
-```git clone https://github.com/your-username/lightdns-checker.git
+```bash
+git clone https://github.com/your-username/lightdns-checker.git
 cd lightdns-checker```
 
 2. Install the dependencies:
