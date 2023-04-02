@@ -1,5 +1,5 @@
 # LightDNS Checker
-
+![alt text](https://github.com/emenmousavi/LightDNS-Checker/blob/main/fhgh-transformed.png)
 A Python script for checking a domain's DNS records and their DNS Zone provider.
 
 ## Usage
