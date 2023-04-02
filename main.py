@@ -8,7 +8,7 @@ parser.add_argument('-t', '--type', help='DNS record type to retrieve (e.g. A, M
 parser.add_argument('-n', '--name', help='DNS record name to retrieve (e.g. www)')
 args = parser.parse_args()
 
-# Print creator name
+# Added my name :D
 print('\033[1m' + 'LightDNS Checker by Emen Mousavi\n' + '\033[0m')
 
 # Retrieve DNS records
